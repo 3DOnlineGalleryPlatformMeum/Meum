@@ -365,7 +365,7 @@ GameObject:
   - component: {fileID: 2200578115816201196}
   - component: {fileID: 2200578115816201199}
   m_Layer: 8
-  m_Name: kiwi
+  m_Name: PlayerKiwi
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -436,7 +436,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2934f8baf9efe549864a1b6a95eddab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 5
+  walkSpeed: 30
   lookSensitivity: 6
   cameraRotationLimit: 30
   theCamera: {fileID: 7902668584844080668}
